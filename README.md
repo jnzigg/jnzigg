@@ -1,4 +1,4 @@
 jnzigg
 ======
 
-I have a dream... And that's to never use a mouse ever again
+i have a dream... and that's to never use a mouse again
