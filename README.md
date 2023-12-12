@@ -1,7 +1,7 @@
 jnzigg
 ======
 
-i have a dream... and that's to never use a mouse again [dots][dotfiles]
+i have a dream... and that's to never use a mouse again [(dots)][dotfiles]
 
 [dotfiles]: https://github.com/jnzigg/dotfiles/tree/master
 
